@@ -14,3 +14,5 @@
     - Set the upper hsv to color wanted and tune the lower (h,s,v)
  - recognition.py:
     - Live detection of ball color
+
+   ![](https://imgur.com/NQVdjUk.png)
